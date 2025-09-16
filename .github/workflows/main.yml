@@ -1,0 +1,64 @@
+name: Build and Deploy to IIS
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: Build and Test
+    runs-on: windows-latest
+
+    steps:
+      - name: 📥 Checkout code
+        uses: actions/checkout@v4
+
+      - name: 🛠️ Setup .NET SDK
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '7.0.x'  
+
+      - name: 🔧 Restore dependencies
+        run: dotnet restore
+
+      - name: 🏗️ Build project
+        run: dotnet build --configuration Release
+
+      - name: ✅ Run tests
+        run: dotnet test
+
+      - name: 📦 Publish application
+        run: dotnet publish -c Release -o ./publish
+
+      - name: ⬆️ Upload published files
+        uses: actions/upload-artifact@v4
+        with:
+          name: my-published-app
+          path: ./publish
+
+  deploy:
+    name: Deploy to IIS via SSH
+    needs: build
+    runs-on: windows-latest
+
+    steps:
+      - name: ⬇️ Download published files
+        uses: actions/download-artifact@v4
+        with:
+          name: my-published-app
+          path: ./publish
+
+      - name: 🚀 Deploy using SSH and PowerShell
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.IIS_HOST }}
+          username: ${{ secrets.IIS_USERNAME }}
+          password: ${{ secrets.IIS_PASSWORD }}
+          port: 22
+          script: |
+            powershell -Command "
+              Stop-WebSite -Name 'MyApp';
+              Remove-Item -Recurse -Force 'C:\inetpub\wwwroot\MyApp\*';
+              Copy-Item -Path './publish/*' -Destination 'C:\inetpub\wwwroot\MyApp\' -Recurse;
+              Start-WebSite -Name 'MyApp'"
