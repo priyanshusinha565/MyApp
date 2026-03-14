@@ -13,9 +13,9 @@ namespace MyApp.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()
+        public string Index()
         {
-            return View();
+            return "HIII";
         }
 
         public IActionResult Privacy()
