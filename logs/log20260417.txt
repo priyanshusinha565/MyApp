@@ -1,0 +1,513 @@
+2026-04-17 07:58:47.417 +05:30 [INF] Now listening on: https://localhost:7238
+2026-04-17 07:58:47.515 +05:30 [INF] Now listening on: http://localhost:5059
+2026-04-17 07:58:47.689 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-17 07:58:47.689 +05:30 [INF] Hosting environment: Development
+2026-04-17 07:58:47.690 +05:30 [INF] Content root path: C:\Users\priya\source\repos\MyApp
+2026-04-17 07:58:49.612 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/ - null null
+2026-04-17 07:58:50.396 +05:30 [INF] Request Started: GET /
+2026-04-17 07:58:50.402 +05:30 [INF] Request Finished: 404 in 14 ms
+2026-04-17 07:58:50.417 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/ - 404 null null 860.6066ms
+2026-04-17 07:58:50.419 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7238/, Response status code: 404
+2026-04-17 08:00:16.409 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/ - null null
+2026-04-17 08:00:16.469 +05:30 [INF] Request Started: GET /
+2026-04-17 08:00:16.469 +05:30 [INF] Request Finished: 404 in 0 ms
+2026-04-17 08:00:16.470 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/ - 404 null null 62.9799ms
+2026-04-17 08:00:16.470 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7238/, Response status code: 404
+2026-04-17 08:04:52.558 +05:30 [INF] Now listening on: https://localhost:7238
+2026-04-17 08:04:52.646 +05:30 [INF] Now listening on: http://localhost:5059
+2026-04-17 08:04:52.819 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-17 08:04:52.819 +05:30 [INF] Hosting environment: Development
+2026-04-17 08:04:52.819 +05:30 [INF] Content root path: C:\Users\priya\source\repos\MyApp
+2026-04-17 08:04:54.048 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/ - null null
+2026-04-17 08:04:54.487 +05:30 [INF] Request Started: GET /
+2026-04-17 08:04:54.493 +05:30 [INF] Request Finished: 404 in 11 ms
+2026-04-17 08:04:54.506 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/ - 404 null null 528.5955ms
+2026-04-17 08:04:54.508 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7238/, Response status code: 404
+2026-04-17 08:06:01.576 +05:30 [INF] Now listening on: https://localhost:7238
+2026-04-17 08:06:01.647 +05:30 [INF] Now listening on: http://localhost:5059
+2026-04-17 08:06:01.781 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-17 08:06:01.781 +05:30 [INF] Hosting environment: Development
+2026-04-17 08:06:01.781 +05:30 [INF] Content root path: C:\Users\priya\source\repos\MyApp
+2026-04-17 08:06:03.218 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/ - null null
+2026-04-17 08:06:03.554 +05:30 [INF] Request Started: GET /
+2026-04-17 08:06:03.561 +05:30 [INF] Request Finished: 404 in 9 ms
+2026-04-17 08:06:03.575 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/ - 404 null null 426.6734ms
+2026-04-17 08:06:03.578 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7238/, Response status code: 404
+2026-04-17 08:09:02.992 +05:30 [INF] Now listening on: https://localhost:7238
+2026-04-17 08:09:03.088 +05:30 [INF] Now listening on: http://localhost:5059
+2026-04-17 08:09:03.224 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-17 08:09:03.224 +05:30 [INF] Hosting environment: Development
+2026-04-17 08:09:03.224 +05:30 [INF] Content root path: C:\Users\priya\source\repos\MyApp
+2026-04-17 08:09:04.822 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/ - null null
+2026-04-17 08:09:05.233 +05:30 [INF] Request Started: GET /
+2026-04-17 08:09:05.241 +05:30 [INF] Request Finished: 404 in 12 ms
+2026-04-17 08:09:05.256 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/ - 404 null null 502.6811ms
+2026-04-17 08:09:05.261 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7238/, Response status code: 404
+2026-04-17 08:12:27.510 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/ - null null
+2026-04-17 08:12:27.555 +05:30 [INF] Request Started: GET /
+2026-04-17 08:12:27.556 +05:30 [INF] Request Finished: 404 in 0 ms
+2026-04-17 08:12:27.556 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/ - 404 null null 47.1368ms
+2026-04-17 08:12:27.557 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7238/, Response status code: 404
+2026-04-17 08:12:28.701 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/ - null null
+2026-04-17 08:12:28.722 +05:30 [INF] Request Started: GET /
+2026-04-17 08:12:28.724 +05:30 [INF] Request Finished: 404 in 1 ms
+2026-04-17 08:12:28.724 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/ - 404 null null 23.2958ms
+2026-04-17 08:12:28.725 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7238/, Response status code: 404
+2026-04-17 08:12:29.720 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/ - null null
+2026-04-17 08:12:29.723 +05:30 [INF] Request Started: GET /
+2026-04-17 08:12:29.724 +05:30 [INF] Request Finished: 404 in 0 ms
+2026-04-17 08:12:29.724 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/ - 404 null null 4.1349ms
+2026-04-17 08:12:29.724 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7238/, Response status code: 404
+2026-04-17 08:12:30.658 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/ - null null
+2026-04-17 08:12:30.667 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/ - null null
+2026-04-17 08:12:30.671 +05:30 [INF] Request Started: GET /
+2026-04-17 08:12:30.671 +05:30 [INF] Request Finished: 404 in 0 ms
+2026-04-17 08:12:30.671 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/ - 404 null null 13.9357ms
+2026-04-17 08:12:30.672 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7238/, Response status code: 404
+2026-04-17 08:12:30.674 +05:30 [INF] Request Started: GET /
+2026-04-17 08:12:30.674 +05:30 [INF] Request Finished: 404 in 0 ms
+2026-04-17 08:12:30.675 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/ - 404 null null 8.3051ms
+2026-04-17 08:12:30.676 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7238/, Response status code: 404
+2026-04-17 08:12:41.560 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/Home/Index - null null
+2026-04-17 08:12:41.623 +05:30 [INF] Request Started: GET /Home/Index
+2026-04-17 08:12:41.624 +05:30 [INF] Request Finished: 404 in 0 ms
+2026-04-17 08:12:41.624 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/Home/Index - 404 null null 64.4598ms
+2026-04-17 08:12:41.624 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7238/Home/Index, Response status code: 404
+2026-04-17 09:15:48.840 +05:30 [INF] Now listening on: https://localhost:7238
+2026-04-17 09:15:48.903 +05:30 [INF] Now listening on: http://localhost:5059
+2026-04-17 09:15:49.059 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-17 09:15:49.060 +05:30 [INF] Hosting environment: Development
+2026-04-17 09:15:49.060 +05:30 [INF] Content root path: C:\Users\priya\source\repos\MyApp
+2026-04-17 09:15:50.774 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/ - null null
+2026-04-17 09:15:51.176 +05:30 [INF] Request Started: GET /
+2026-04-17 09:15:51.179 +05:30 [INF] Request Finished: 404 in 4 ms
+2026-04-17 09:15:51.191 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/ - 404 null null 479.4265ms
+2026-04-17 09:15:51.193 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7238/, Response status code: 404
+2026-04-17 09:32:20.160 +05:30 [INF] User profile is available. Using 'C:\Users\priya\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-04-17 09:32:20.807 +05:30 [INF] Now listening on: https://localhost:7238
+2026-04-17 09:32:20.808 +05:30 [INF] Now listening on: http://localhost:5059
+2026-04-17 09:32:20.909 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-17 09:32:20.909 +05:30 [INF] Hosting environment: Development
+2026-04-17 09:32:20.909 +05:30 [INF] Content root path: C:\Users\priya\source\repos\MyApp
+2026-04-17 09:32:22.535 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/ - null null
+2026-04-17 09:32:22.981 +05:30 [INF] Request Started: GET /
+2026-04-17 09:32:23.010 +05:30 [INF] Executing endpoint 'MyApp.Controllers.HomeController.Index (MyApp)'
+2026-04-17 09:32:23.111 +05:30 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature System.String Index() on controller MyApp.Controllers.HomeController (MyApp).
+2026-04-17 09:32:23.140 +05:30 [INF] Executing action method MyApp.Controllers.HomeController.Index (MyApp) - Validation state: "Valid"
+2026-04-17 09:32:23.141 +05:30 [INF] Index page called
+2026-04-17 09:32:23.141 +05:30 [WRN] This is warning
+2026-04-17 09:32:23.141 +05:30 [ERR] This is error
+2026-04-17 09:32:23.147 +05:30 [INF] Executed action method MyApp.Controllers.HomeController.Index (MyApp), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.9285ms.
+2026-04-17 09:32:23.161 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2026-04-17 09:32:23.191 +05:30 [INF] Executed action MyApp.Controllers.HomeController.Index (MyApp) in 74.969ms
+2026-04-17 09:32:23.191 +05:30 [INF] Executed endpoint 'MyApp.Controllers.HomeController.Index (MyApp)'
+2026-04-17 09:32:23.191 +05:30 [INF] Request Finished: 200 in 212 ms
+2026-04-17 09:32:23.199 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/ - 200 null text/plain; charset=utf-8 748.2704ms
+2026-04-17 09:33:56.147 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/Text - null null
+2026-04-17 09:33:56.198 +05:30 [INF] Request Started: GET /Text
+2026-04-17 09:33:56.199 +05:30 [INF] Request Finished: 404 in 1 ms
+2026-04-17 09:33:56.201 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/Text - 404 null null 54.6633ms
+2026-04-17 09:33:56.202 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7238/Text, Response status code: 404
+2026-04-17 09:34:02.290 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/Text/Text - null null
+2026-04-17 09:34:02.303 +05:30 [INF] Request Started: GET /Text/Text
+2026-04-17 09:34:02.304 +05:30 [INF] Request Finished: 404 in 0 ms
+2026-04-17 09:34:02.304 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/Text/Text - 404 null null 13.9963ms
+2026-04-17 09:34:02.304 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7238/Text/Text, Response status code: 404
+2026-04-17 09:34:14.091 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/Test - null null
+2026-04-17 09:34:14.106 +05:30 [INF] Request Started: GET /Test
+2026-04-17 09:34:14.111 +05:30 [INF] Executing endpoint 'TestController.Get (MyApp)'
+2026-04-17 09:34:14.155 +05:30 [INF] Route matched with {action = "Get", controller = "Test"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller TestController (MyApp).
+2026-04-17 09:34:14.156 +05:30 [INF] Executing action method TestController.Get (MyApp) - Validation state: "Valid"
+2026-04-17 09:34:14.382 +05:30 [INF] Executed action method TestController.Get (MyApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 226.4356ms.
+2026-04-17 09:34:14.384 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2026-04-17 09:34:14.384 +05:30 [INF] Executed action TestController.Get (MyApp) in 229.2809ms
+2026-04-17 09:34:14.385 +05:30 [INF] Executed endpoint 'TestController.Get (MyApp)'
+2026-04-17 09:34:14.385 +05:30 [INF] Request Finished: 200 in 278 ms
+2026-04-17 09:34:14.385 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/Test - 200 null text/plain; charset=utf-8 294.5287ms
+2026-04-17 09:35:43.466 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/Test - null null
+2026-04-17 09:35:43.479 +05:30 [INF] Request Started: GET /Test
+2026-04-17 09:35:43.479 +05:30 [INF] Executing endpoint 'TestController.Get (MyApp)'
+2026-04-17 09:35:43.479 +05:30 [INF] Route matched with {action = "Get", controller = "Test"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller TestController (MyApp).
+2026-04-17 09:35:43.480 +05:30 [INF] Executing action method TestController.Get (MyApp) - Validation state: "Valid"
+2026-04-17 09:35:43.685 +05:30 [INF] Executed action method TestController.Get (MyApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 205.7117ms.
+2026-04-17 09:35:43.686 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2026-04-17 09:35:43.686 +05:30 [INF] Executed action TestController.Get (MyApp) in 206.8936ms
+2026-04-17 09:35:43.686 +05:30 [INF] Executed endpoint 'TestController.Get (MyApp)'
+2026-04-17 09:35:43.687 +05:30 [INF] Request Finished: 200 in 207 ms
+2026-04-17 09:35:43.687 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/Test - 200 null text/plain; charset=utf-8 221.2919ms
+2026-04-17 09:41:45.081 +05:30 [INF] User profile is available. Using 'C:\Users\priya\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-04-17 09:41:45.574 +05:30 [INF] Now listening on: https://localhost:7238
+2026-04-17 09:41:45.574 +05:30 [INF] Now listening on: http://localhost:5059
+2026-04-17 09:41:45.656 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-17 09:41:45.656 +05:30 [INF] Hosting environment: Development
+2026-04-17 09:41:45.656 +05:30 [INF] Content root path: C:\Users\priya\source\repos\MyApp
+2026-04-17 09:41:46.717 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/ - null null
+2026-04-17 09:41:47.031 +05:30 [INF] Request Started: GET /
+2026-04-17 09:41:47.034 +05:30 [INF] Executing endpoint 'MyApp.Controllers.HomeController.Index (MyApp)'
+2026-04-17 09:41:47.093 +05:30 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature System.String Index() on controller MyApp.Controllers.HomeController (MyApp).
+2026-04-17 09:41:47.104 +05:30 [INF] Executing action method MyApp.Controllers.HomeController.Index (MyApp) - Validation state: "Valid"
+2026-04-17 09:41:47.106 +05:30 [INF] Index page called
+2026-04-17 09:41:47.106 +05:30 [WRN] This is warning
+2026-04-17 09:41:47.106 +05:30 [ERR] This is error
+2026-04-17 09:41:47.114 +05:30 [INF] Executed action method MyApp.Controllers.HomeController.Index (MyApp), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 1.0253ms.
+2026-04-17 09:41:47.130 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2026-04-17 09:41:47.168 +05:30 [INF] Executed action MyApp.Controllers.HomeController.Index (MyApp) in 67.8789ms
+2026-04-17 09:41:47.168 +05:30 [INF] Executed endpoint 'MyApp.Controllers.HomeController.Index (MyApp)'
+2026-04-17 09:41:47.169 +05:30 [INF] Request Finished: 200 in 139 ms
+2026-04-17 09:41:47.178 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/ - 200 null text/plain; charset=utf-8 513.871ms
+2026-04-17 09:42:20.823 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/Test - null null
+2026-04-17 09:42:20.904 +05:30 [INF] Request Started: GET /Test
+2026-04-17 09:42:20.905 +05:30 [INF] Executing endpoint 'TestController.Get (MyApp)'
+2026-04-17 09:42:20.917 +05:30 [INF] Route matched with {action = "Get", controller = "Test"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Get() on controller TestController (MyApp).
+2026-04-17 09:42:20.918 +05:30 [INF] Executing action method TestController.Get (MyApp) - Validation state: "Valid"
+2026-04-17 09:42:21.389 +05:30 [INF] Executed action method TestController.Get (MyApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 469.7272ms.
+2026-04-17 09:42:21.390 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2026-04-17 09:42:21.390 +05:30 [INF] Executed action TestController.Get (MyApp) in 472.6694ms
+2026-04-17 09:42:21.391 +05:30 [INF] Executed endpoint 'TestController.Get (MyApp)'
+2026-04-17 09:42:21.391 +05:30 [INF] Request Finished: 200 in 486 ms
+2026-04-17 09:42:21.392 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/Test - 200 null text/plain; charset=utf-8 582.5647ms
+2026-04-17 12:08:28.371 +05:30 [INF] User profile is available. Using 'C:\Users\priya\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-04-17 12:08:30.480 +05:30 [INF] Now listening on: https://localhost:7238
+2026-04-17 12:08:30.481 +05:30 [INF] Now listening on: http://localhost:5059
+2026-04-17 12:08:30.858 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-17 12:08:30.859 +05:30 [INF] Hosting environment: Development
+2026-04-17 12:08:30.859 +05:30 [INF] Content root path: C:\Users\priya\source\repos\MyApp
+2026-04-17 12:08:35.270 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/ - null null
+2026-04-17 12:08:36.539 +05:30 [INF] Request Started: GET /
+2026-04-17 12:08:36.559 +05:30 [INF] Executing endpoint 'MyApp.Controllers.HomeController.Index (MyApp)'
+2026-04-17 12:08:36.935 +05:30 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature System.String Index() on controller MyApp.Controllers.HomeController (MyApp).
+2026-04-17 12:08:36.982 +05:30 [INF] Executing action method MyApp.Controllers.HomeController.Index (MyApp) - Validation state: "Valid"
+2026-04-17 12:08:36.985 +05:30 [INF] Index page called
+2026-04-17 12:08:36.985 +05:30 [WRN] This is warning
+2026-04-17 12:08:36.985 +05:30 [ERR] This is error
+2026-04-17 12:08:36.991 +05:30 [INF] Executed action method MyApp.Controllers.HomeController.Index (MyApp), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 1.5113ms.
+2026-04-17 12:08:37.039 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2026-04-17 12:08:37.316 +05:30 [INF] Executed action MyApp.Controllers.HomeController.Index (MyApp) in 371.2252ms
+2026-04-17 12:08:37.317 +05:30 [INF] Executed endpoint 'MyApp.Controllers.HomeController.Index (MyApp)'
+2026-04-17 12:08:37.318 +05:30 [INF] Request Finished: 200 in 781 ms
+2026-04-17 12:08:37.328 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/ - 200 null text/plain; charset=utf-8 2181.762ms
+2026-04-17 12:09:10.411 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/Test - null null
+2026-04-17 12:09:10.455 +05:30 [INF] Request Started: GET /Test
+2026-04-17 12:09:10.458 +05:30 [INF] Executing endpoint 'TestController.Get (MyApp)'
+2026-04-17 12:09:10.678 +05:30 [INF] Route matched with {action = "Get", controller = "Test"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get() on controller TestController (MyApp).
+2026-04-17 12:09:10.679 +05:30 [INF] Executing action method TestController.Get (MyApp) - Validation state: "Valid"
+2026-04-17 12:09:59.174 +05:30 [INF] Executed action method TestController.Get (MyApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 48494.3462ms.
+2026-04-17 12:09:59.176 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2026-04-17 12:09:59.183 +05:30 [INF] Executed action TestController.Get (MyApp) in 48505.2308ms
+2026-04-17 12:09:59.185 +05:30 [INF] Executed endpoint 'TestController.Get (MyApp)'
+2026-04-17 12:09:59.186 +05:30 [INF] Request Finished: 200 in 48731 ms
+2026-04-17 12:09:59.188 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/Test - 200 null text/plain; charset=utf-8 48778.6159ms
+2026-04-17 20:57:19.438 +05:30 [INF] User profile is available. Using 'C:\Users\priya\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-04-17 20:57:21.161 +05:30 [INF] Now listening on: https://localhost:7238
+2026-04-17 20:57:21.162 +05:30 [INF] Now listening on: http://localhost:5059
+2026-04-17 20:57:21.343 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-17 20:57:21.343 +05:30 [INF] Hosting environment: Development
+2026-04-17 20:57:21.343 +05:30 [INF] Content root path: C:\Users\priya\source\repos\MyApp
+2026-04-17 20:57:25.810 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/ - null null
+2026-04-17 20:57:27.060 +05:30 [INF] Request Started: GET /
+2026-04-17 20:57:27.066 +05:30 [INF] Executing endpoint 'MyApp.Controllers.HomeController.Index (MyApp)'
+2026-04-17 20:57:27.283 +05:30 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature System.String Index() on controller MyApp.Controllers.HomeController (MyApp).
+2026-04-17 20:57:27.305 +05:30 [INF] Executing action method MyApp.Controllers.HomeController.Index (MyApp) - Validation state: "Valid"
+2026-04-17 20:57:27.308 +05:30 [INF] Index page called
+2026-04-17 20:57:27.309 +05:30 [WRN] This is warning
+2026-04-17 20:57:27.309 +05:30 [ERR] This is error
+2026-04-17 20:57:27.326 +05:30 [INF] Executed action method MyApp.Controllers.HomeController.Index (MyApp), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 1.6678ms.
+2026-04-17 20:57:27.347 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2026-04-17 20:57:27.478 +05:30 [INF] Executed action MyApp.Controllers.HomeController.Index (MyApp) in 183.2939ms
+2026-04-17 20:57:27.478 +05:30 [INF] Executed endpoint 'MyApp.Controllers.HomeController.Index (MyApp)'
+2026-04-17 20:57:27.479 +05:30 [INF] Request Finished: 200 in 423 ms
+2026-04-17 20:57:27.494 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/ - 200 null text/plain; charset=utf-8 1866.2339ms
+2026-04-17 20:57:38.490 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/Test - null null
+2026-04-17 20:57:38.558 +05:30 [INF] Request Started: GET /Test
+2026-04-17 20:57:38.559 +05:30 [INF] Executing endpoint 'TestController.Get (MyApp)'
+2026-04-17 20:57:38.619 +05:30 [INF] Route matched with {action = "Get", controller = "Test"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get() on controller TestController (MyApp).
+2026-04-17 20:57:38.620 +05:30 [INF] Executing action method TestController.Get (MyApp) - Validation state: "Valid"
+2026-04-17 20:57:44.620 +05:30 [INF] Executed action method TestController.Get (MyApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 5999.2697ms.
+2026-04-17 20:57:44.625 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2026-04-17 20:57:44.628 +05:30 [INF] Executed action TestController.Get (MyApp) in 6008.3183ms
+2026-04-17 20:57:44.629 +05:30 [INF] Executed endpoint 'TestController.Get (MyApp)'
+2026-04-17 20:57:44.630 +05:30 [INF] Request Finished: 200 in 6072 ms
+2026-04-17 20:57:44.635 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/Test - 200 null text/plain; charset=utf-8 6144.5502ms
+2026-04-17 21:00:05.542 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/Test - null null
+2026-04-17 21:00:05.611 +05:30 [INF] Request Started: GET /Test
+2026-04-17 21:00:05.612 +05:30 [INF] Executing endpoint 'TestController.Get (MyApp)'
+2026-04-17 21:00:05.612 +05:30 [INF] Route matched with {action = "Get", controller = "Test"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Get() on controller TestController (MyApp).
+2026-04-17 21:00:05.612 +05:30 [INF] Executing action method TestController.Get (MyApp) - Validation state: "Valid"
+2026-04-17 21:00:06.426 +05:30 [INF] Executed action method TestController.Get (MyApp), returned result Microsoft.AspNetCore.Mvc.OkObjectResult in 812.3016ms.
+2026-04-17 21:00:06.426 +05:30 [INF] Executing OkObjectResult, writing value of type 'System.String'.
+2026-04-17 21:00:06.427 +05:30 [INF] Executed action TestController.Get (MyApp) in 814.7209ms
+2026-04-17 21:00:06.428 +05:30 [INF] Executed endpoint 'TestController.Get (MyApp)'
+2026-04-17 21:00:06.428 +05:30 [INF] Request Finished: 200 in 816 ms
+2026-04-17 21:00:06.428 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/Test - 200 null text/plain; charset=utf-8 886.6473ms
+2026-04-17 21:00:11.129 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/Test/metrics - null null
+2026-04-17 21:00:11.134 +05:30 [INF] Request Started: GET /Test/metrics
+2026-04-17 21:00:11.135 +05:30 [INF] Request Finished: 404 in 0 ms
+2026-04-17 21:00:11.135 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/Test/metrics - 404 null null 6.319ms
+2026-04-17 21:00:11.136 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7238/Test/metrics, Response status code: 404
+2026-04-17 21:00:23.422 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/metrics - null null
+2026-04-17 21:00:23.735 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/metrics - 200 null text/plain; charset=utf-8; version=0.0.4 312.5331ms
+2026-04-17 21:23:49.443 +05:30 [INF] User profile is available. Using 'C:\Users\priya\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-04-17 21:23:50.781 +05:30 [INF] Now listening on: https://localhost:7238
+2026-04-17 21:23:50.781 +05:30 [INF] Now listening on: http://localhost:5059
+2026-04-17 21:23:51.041 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-17 21:23:51.041 +05:30 [INF] Hosting environment: Development
+2026-04-17 21:23:51.042 +05:30 [INF] Content root path: C:\Users\priya\source\repos\MyApp
+2026-04-17 21:23:52.743 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/ - null null
+2026-04-17 21:23:55.558 +05:30 [INF] Request Started: GET /
+2026-04-17 21:23:55.562 +05:30 [INF] Executing endpoint 'MyApp.Controllers.HomeController.Index (MyApp)'
+2026-04-17 21:23:55.795 +05:30 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature System.String Index() on controller MyApp.Controllers.HomeController (MyApp).
+2026-04-17 21:23:55.842 +05:30 [INF] Executing action method MyApp.Controllers.HomeController.Index (MyApp) - Validation state: "Valid"
+2026-04-17 21:23:55.845 +05:30 [INF] Index page called
+2026-04-17 21:23:55.845 +05:30 [WRN] This is warning
+2026-04-17 21:23:55.845 +05:30 [ERR] This is error
+2026-04-17 21:23:55.856 +05:30 [INF] Executed action method MyApp.Controllers.HomeController.Index (MyApp), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 1.8561ms.
+2026-04-17 21:23:55.888 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2026-04-17 21:23:55.986 +05:30 [INF] Executed action MyApp.Controllers.HomeController.Index (MyApp) in 175.1964ms
+2026-04-17 21:23:55.986 +05:30 [INF] Executed endpoint 'MyApp.Controllers.HomeController.Index (MyApp)'
+2026-04-17 21:23:55.987 +05:30 [INF] Request Finished: 200 in 430 ms
+2026-04-17 21:23:55.997 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/ - 200 null text/plain; charset=utf-8 3457.8796ms
+2026-04-17 21:28:38.065 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/Home/IndexERROR - null null
+2026-04-17 21:28:38.144 +05:30 [INF] Request Started: GET /Home/IndexERROR
+2026-04-17 21:28:38.145 +05:30 [INF] Request Finished: 404 in 1 ms
+2026-04-17 21:28:38.146 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/Home/IndexERROR - 404 null null 92.0109ms
+2026-04-17 21:28:38.148 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7238/Home/IndexERROR, Response status code: 404
+2026-04-17 21:29:11.134 +05:30 [INF] User profile is available. Using 'C:\Users\priya\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-04-17 21:29:11.689 +05:30 [INF] Now listening on: https://localhost:7238
+2026-04-17 21:29:11.690 +05:30 [INF] Now listening on: http://localhost:5059
+2026-04-17 21:29:11.816 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-17 21:29:11.817 +05:30 [INF] Hosting environment: Development
+2026-04-17 21:29:11.817 +05:30 [INF] Content root path: C:\Users\priya\source\repos\MyApp
+2026-04-17 21:29:13.446 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/ - null null
+2026-04-17 21:29:13.798 +05:30 [INF] Request Started: GET /
+2026-04-17 21:29:13.804 +05:30 [INF] Executing endpoint 'MyApp.Controllers.HomeController.Index (MyApp)'
+2026-04-17 21:29:13.886 +05:30 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature System.String Index() on controller MyApp.Controllers.HomeController (MyApp).
+2026-04-17 21:29:13.902 +05:30 [INF] Executing action method MyApp.Controllers.HomeController.Index (MyApp) - Validation state: "Valid"
+2026-04-17 21:29:13.904 +05:30 [INF] Index page called
+2026-04-17 21:29:13.904 +05:30 [WRN] This is warning
+2026-04-17 21:29:13.904 +05:30 [ERR] This is error
+2026-04-17 21:29:13.912 +05:30 [INF] Executed action method MyApp.Controllers.HomeController.Index (MyApp), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.9884ms.
+2026-04-17 21:29:13.939 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2026-04-17 21:29:13.987 +05:30 [INF] Executed action MyApp.Controllers.HomeController.Index (MyApp) in 92.2562ms
+2026-04-17 21:29:13.987 +05:30 [INF] Executed endpoint 'MyApp.Controllers.HomeController.Index (MyApp)'
+2026-04-17 21:29:13.988 +05:30 [INF] Request Finished: 200 in 193 ms
+2026-04-17 21:29:13.997 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/ - 200 null text/plain; charset=utf-8 618.12ms
+2026-04-17 21:31:43.524 +05:30 [INF] User profile is available. Using 'C:\Users\priya\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-04-17 21:31:44.085 +05:30 [INF] Now listening on: https://localhost:7238
+2026-04-17 21:31:44.086 +05:30 [INF] Now listening on: http://localhost:5059
+2026-04-17 21:31:44.203 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-17 21:31:44.203 +05:30 [INF] Hosting environment: Development
+2026-04-17 21:31:44.204 +05:30 [INF] Content root path: C:\Users\priya\source\repos\MyApp
+2026-04-17 21:31:45.536 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/ - null null
+2026-04-17 21:31:45.940 +05:30 [INF] Request Started: GET /
+2026-04-17 21:31:45.946 +05:30 [INF] Executing endpoint 'MyApp.Controllers.HomeController.Index (MyApp)'
+2026-04-17 21:31:46.060 +05:30 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature System.String Index() on controller MyApp.Controllers.HomeController (MyApp).
+2026-04-17 21:31:46.094 +05:30 [INF] Executing action method MyApp.Controllers.HomeController.Index (MyApp) - Validation state: "Valid"
+2026-04-17 21:31:46.097 +05:30 [INF] Index page called
+2026-04-17 21:31:46.097 +05:30 [WRN] This is warning
+2026-04-17 21:31:46.097 +05:30 [ERR] This is error
+2026-04-17 21:31:46.108 +05:30 [INF] Executed action method MyApp.Controllers.HomeController.Index (MyApp), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 1.9378ms.
+2026-04-17 21:31:46.143 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2026-04-17 21:31:46.190 +05:30 [INF] Executed action MyApp.Controllers.HomeController.Index (MyApp) in 121.1647ms
+2026-04-17 21:31:46.191 +05:30 [INF] Executed endpoint 'MyApp.Controllers.HomeController.Index (MyApp)'
+2026-04-17 21:31:46.191 +05:30 [INF] Request Finished: 200 in 257 ms
+2026-04-17 21:31:46.201 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/ - 200 null text/plain; charset=utf-8 743.8638ms
+2026-04-17 21:32:20.038 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/Home/IndexERROR - null null
+2026-04-17 21:32:20.085 +05:30 [INF] Request Started: GET /Home/IndexERROR
+2026-04-17 21:32:20.085 +05:30 [INF] Executing endpoint 'MyApp.Controllers.HomeController.IndexERROR (MyApp)'
+2026-04-17 21:32:20.090 +05:30 [INF] Route matched with {action = "IndexERROR", controller = "Home"}. Executing controller action with signature System.String IndexERROR() on controller MyApp.Controllers.HomeController (MyApp).
+2026-04-17 21:32:20.170 +05:30 [INF] Executing action method MyApp.Controllers.HomeController.IndexERROR (MyApp) - Validation state: "Valid"
+2026-04-17 21:32:20.171 +05:30 [INF] Index page called
+2026-04-17 21:32:20.171 +05:30 [WRN] This is warning
+2026-04-17 21:32:20.171 +05:30 [ERR] This is error
+2026-04-17 21:32:32.924 +05:30 [INF] Executed action MyApp.Controllers.HomeController.IndexERROR (MyApp) in 12780.5645ms
+2026-04-17 21:32:32.952 +05:30 [INF] Executed endpoint 'MyApp.Controllers.HomeController.IndexERROR (MyApp)'
+2026-04-17 21:32:33.039 +05:30 [ERR] Unhandled Exception
+System.DivideByZeroException: Attempted to divide by zero.
+   at MyApp.Controllers.HomeController.IndexERROR() in C:\Users\priya\source\repos\MyApp\Controllers\HomeController.cs:line 29
+   at lambda_method3(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at MyApp.Program.<>c.<<Main>b__0_2>d.MoveNext() in C:\Users\priya\source\repos\MyApp\Program.cs:line 107
+2026-04-17 21:32:33.283 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.DivideByZeroException: Attempted to divide by zero.
+   at MyApp.Controllers.HomeController.IndexERROR() in C:\Users\priya\source\repos\MyApp\Controllers\HomeController.cs:line 29
+   at lambda_method3(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at MyApp.Program.<>c.<<Main>b__0_2>d.MoveNext() in C:\Users\priya\source\repos\MyApp\Program.cs:line 107
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-04-17 21:32:33.545 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/Home/IndexERROR - 500 null text/html; charset=utf-8 13509.6975ms
+2026-04-17 21:32:33.559 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/_vs/browserLink - null null
+2026-04-17 21:32:33.575 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/_framework/aspnetcore-browser-refresh.js - null null
+2026-04-17 21:32:33.597 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/_framework/aspnetcore-browser-refresh.js - 200 14915 application/javascript; charset=utf-8 23.031ms
+2026-04-17 21:32:34.568 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/_vs/browserLink - 200 null text/javascript; charset=UTF-8 1009.1528ms
+2026-04-17 21:38:27.478 +05:30 [INF] User profile is available. Using 'C:\Users\priya\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-04-17 21:38:27.997 +05:30 [INF] Now listening on: https://localhost:7238
+2026-04-17 21:38:27.998 +05:30 [INF] Now listening on: http://localhost:5059
+2026-04-17 21:38:28.156 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-17 21:38:28.156 +05:30 [INF] Hosting environment: Development
+2026-04-17 21:38:28.156 +05:30 [INF] Content root path: C:\Users\priya\source\repos\MyApp
+2026-04-17 21:38:29.123 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/ - null null
+2026-04-17 21:38:29.549 +05:30 [INF] Request Started: GET /
+2026-04-17 21:38:29.557 +05:30 [INF] Executing endpoint 'MyApp.Controllers.HomeController.Index (MyApp)'
+2026-04-17 21:38:29.653 +05:30 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature System.String Index() on controller MyApp.Controllers.HomeController (MyApp).
+2026-04-17 21:38:29.675 +05:30 [INF] Executing action method MyApp.Controllers.HomeController.Index (MyApp) - Validation state: "Valid"
+2026-04-17 21:38:29.678 +05:30 [INF] Index page called
+2026-04-17 21:38:29.678 +05:30 [WRN] This is warning
+2026-04-17 21:38:29.678 +05:30 [ERR] This is error
+2026-04-17 21:38:29.689 +05:30 [INF] Executed action method MyApp.Controllers.HomeController.Index (MyApp), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 1.5782ms.
+2026-04-17 21:38:29.717 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2026-04-17 21:38:29.783 +05:30 [INF] Executed action MyApp.Controllers.HomeController.Index (MyApp) in 120.8126ms
+2026-04-17 21:38:29.784 +05:30 [INF] Executed endpoint 'MyApp.Controllers.HomeController.Index (MyApp)'
+2026-04-17 21:38:29.784 +05:30 [INF] Request Finished: 200 in 239 ms
+2026-04-17 21:38:29.797 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/ - 200 null text/plain; charset=utf-8 748.0825ms
+2026-04-17 21:41:21.015 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/Home/IndexERROR?b=10 - null null
+2026-04-17 21:41:21.107 +05:30 [INF] Request Started: GET /Home/IndexERROR
+2026-04-17 21:41:21.108 +05:30 [INF] Executing endpoint 'MyApp.Controllers.HomeController.IndexERROR (MyApp)'
+2026-04-17 21:41:21.153 +05:30 [INF] Route matched with {action = "IndexERROR", controller = "Home"}. Executing controller action with signature System.String IndexERROR(Int32) on controller MyApp.Controllers.HomeController (MyApp).
+2026-04-17 21:41:21.291 +05:30 [INF] Executing action method MyApp.Controllers.HomeController.IndexERROR (MyApp) - Validation state: "Valid"
+2026-04-17 21:41:21.292 +05:30 [INF] Index page called
+2026-04-17 21:41:21.292 +05:30 [WRN] This is warning
+2026-04-17 21:41:21.292 +05:30 [ERR] This is error
+2026-04-17 21:41:36.005 +05:30 [INF] Executed action MyApp.Controllers.HomeController.IndexERROR (MyApp) in 14851.2792ms
+2026-04-17 21:41:36.007 +05:30 [INF] Executed endpoint 'MyApp.Controllers.HomeController.IndexERROR (MyApp)'
+2026-04-17 21:41:36.124 +05:30 [ERR] Unhandled Exception
+System.DivideByZeroException: Attempted to divide by zero.
+   at MyApp.Controllers.HomeController.IndexERROR(Int32 b) in C:\Users\priya\source\repos\MyApp\Controllers\HomeController.cs:line 29
+   at lambda_method3(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at MyApp.Program.<>c.<<Main>b__0_2>d.MoveNext() in C:\Users\priya\source\repos\MyApp\Program.cs:line 107
+2026-04-17 21:41:36.302 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.DivideByZeroException: Attempted to divide by zero.
+   at MyApp.Controllers.HomeController.IndexERROR(Int32 b) in C:\Users\priya\source\repos\MyApp\Controllers\HomeController.cs:line 29
+   at lambda_method3(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at MyApp.Program.<>c.<<Main>b__0_2>d.MoveNext() in C:\Users\priya\source\repos\MyApp\Program.cs:line 107
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-04-17 21:41:36.499 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/Home/IndexERROR?b=10 - 500 null text/html; charset=utf-8 15489.4375ms
+2026-04-17 21:41:36.789 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/_framework/aspnetcore-browser-refresh.js - null null
+2026-04-17 21:41:36.789 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/_vs/browserLink - null null
+2026-04-17 21:41:36.814 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/_framework/aspnetcore-browser-refresh.js - 200 14915 application/javascript; charset=utf-8 25.0581ms
+2026-04-17 21:41:36.935 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/_vs/browserLink - 200 null text/javascript; charset=UTF-8 145.9212ms
+2026-04-17 21:42:08.233 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/Home/IndexERROR?b=10 - null null
+2026-04-17 21:42:08.250 +05:30 [INF] Request Started: GET /Home/IndexERROR
+2026-04-17 21:42:08.250 +05:30 [INF] Executing endpoint 'MyApp.Controllers.HomeController.IndexERROR (MyApp)'
+2026-04-17 21:42:08.250 +05:30 [INF] Route matched with {action = "IndexERROR", controller = "Home"}. Executing controller action with signature System.String IndexERROR(Int32) on controller MyApp.Controllers.HomeController (MyApp).
+2026-04-17 21:42:08.251 +05:30 [INF] Executing action method MyApp.Controllers.HomeController.IndexERROR (MyApp) - Validation state: "Valid"
+2026-04-17 21:42:08.251 +05:30 [INF] Index page called
+2026-04-17 21:42:08.251 +05:30 [WRN] This is warning
+2026-04-17 21:42:08.251 +05:30 [ERR] This is error
+2026-04-17 21:42:10.459 +05:30 [INF] Executed action MyApp.Controllers.HomeController.IndexERROR (MyApp) in 2208.8996ms
+2026-04-17 21:42:10.460 +05:30 [INF] Executed endpoint 'MyApp.Controllers.HomeController.IndexERROR (MyApp)'
+2026-04-17 21:42:10.534 +05:30 [ERR] Unhandled Exception
+System.DivideByZeroException: Attempted to divide by zero.
+   at MyApp.Controllers.HomeController.IndexERROR(Int32 b) in C:\Users\priya\source\repos\MyApp\Controllers\HomeController.cs:line 29
+   at lambda_method3(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at MyApp.Program.<>c.<<Main>b__0_2>d.MoveNext() in C:\Users\priya\source\repos\MyApp\Program.cs:line 107
+2026-04-17 21:42:10.622 +05:30 [ERR] An unhandled exception has occurred while executing the request.
+System.DivideByZeroException: Attempted to divide by zero.
+   at MyApp.Controllers.HomeController.IndexERROR(Int32 b) in C:\Users\priya\source\repos\MyApp\Controllers\HomeController.cs:line 29
+   at lambda_method3(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at MyApp.Program.<>c.<<Main>b__0_2>d.MoveNext() in C:\Users\priya\source\repos\MyApp\Program.cs:line 107
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-04-17 21:42:10.636 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/Home/IndexERROR?b=10 - 500 null text/html; charset=utf-8 2406.1845ms
+2026-04-17 21:42:10.665 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/_framework/aspnetcore-browser-refresh.js - null null
+2026-04-17 21:42:10.667 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/_vs/browserLink - null null
+2026-04-17 21:42:10.673 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/_framework/aspnetcore-browser-refresh.js - 200 14915 application/javascript; charset=utf-8 8.2117ms
+2026-04-17 21:42:10.719 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/_vs/browserLink - 200 null text/javascript; charset=UTF-8 52.2363ms

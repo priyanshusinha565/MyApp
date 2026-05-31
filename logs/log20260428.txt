@@ -1,0 +1,20 @@
+2026-04-28 16:37:29.884 +05:30 [INF] User profile is available. Using 'C:\Users\priya\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-04-28 16:37:34.498 +05:30 [INF] Now listening on: https://localhost:7238
+2026-04-28 16:37:34.498 +05:30 [INF] Now listening on: http://localhost:5059
+2026-04-28 16:37:34.814 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-28 16:37:34.814 +05:30 [INF] Hosting environment: Development
+2026-04-28 16:37:34.815 +05:30 [INF] Content root path: C:\Users\priya\source\repos\MyApp
+2026-04-28 16:37:50.568 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/ - null null
+2026-04-28 16:37:51.806 +05:30 [INF] Request Started: GET /
+2026-04-28 16:37:51.898 +05:30 [INF] Executing endpoint 'MyApp.Controllers.HomeController.Index (MyApp)'
+2026-04-28 16:37:52.256 +05:30 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature System.String Index() on controller MyApp.Controllers.HomeController (MyApp).
+2026-04-28 16:37:52.316 +05:30 [INF] Executing action method MyApp.Controllers.HomeController.Index (MyApp) - Validation state: "Valid"
+2026-04-28 16:37:52.318 +05:30 [INF] Index page called
+2026-04-28 16:37:52.318 +05:30 [WRN] This is warning
+2026-04-28 16:37:52.318 +05:30 [ERR] This is error
+2026-04-28 16:37:52.331 +05:30 [INF] Executed action method MyApp.Controllers.HomeController.Index (MyApp), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 1.0658ms.
+2026-04-28 16:37:52.381 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2026-04-28 16:37:52.450 +05:30 [INF] Executed action MyApp.Controllers.HomeController.Index (MyApp) in 177.0533ms
+2026-04-28 16:37:52.450 +05:30 [INF] Executed endpoint 'MyApp.Controllers.HomeController.Index (MyApp)'
+2026-04-28 16:37:52.451 +05:30 [INF] Request Finished: 200 in 646 ms
+2026-04-28 16:37:52.459 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/ - 200 null text/plain; charset=utf-8 2158.9199ms

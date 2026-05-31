@@ -1,0 +1,23 @@
+2026-05-30 05:00:30.437 +05:30 [INF] User profile is available. Using 'C:\Users\priya\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-05-30 05:00:36.250 +05:30 [INF] Now listening on: https://localhost:7238
+2026-05-30 05:00:36.250 +05:30 [INF] Now listening on: http://localhost:5059
+2026-05-30 05:00:36.565 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-05-30 05:00:36.565 +05:30 [INF] Hosting environment: Development
+2026-05-30 05:00:36.566 +05:30 [INF] Content root path: C:\Users\priya\source\repos\MyApp
+2026-05-30 05:00:43.057 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/ - null null
+2026-05-30 05:00:44.153 +05:30 [INF] Request Started: GET /
+2026-05-30 05:00:44.192 +05:30 [INF] Executing endpoint 'MyApp.Controllers.HomeController.Index (MyApp)'
+2026-05-30 05:00:44.581 +05:30 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature System.String Index() on controller MyApp.Controllers.HomeController (MyApp).
+2026-05-30 05:00:44.645 +05:30 [INF] Executing action method MyApp.Controllers.HomeController.Index (MyApp) - Validation state: "Valid"
+2026-05-30 05:00:44.647 +05:30 [INF] Index page called
+2026-05-30 05:00:44.647 +05:30 [WRN] This is warning
+2026-05-30 05:00:44.647 +05:30 [ERR] This is error
+2026-05-30 05:00:44.653 +05:30 [INF] Executed action method MyApp.Controllers.HomeController.Index (MyApp), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 0.9868ms.
+2026-05-30 05:00:44.678 +05:30 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2026-05-30 05:00:44.743 +05:30 [INF] Executed action MyApp.Controllers.HomeController.Index (MyApp) in 137.3461ms
+2026-05-30 05:00:44.744 +05:30 [INF] Executed endpoint 'MyApp.Controllers.HomeController.Index (MyApp)'
+2026-05-30 05:00:44.744 +05:30 [INF] Request Finished: 200 in 592 ms
+2026-05-30 05:00:44.751 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/ - 200 null text/plain; charset=utf-8 1786.6482ms
+2026-05-30 05:00:44.986 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/favicon.ico - null null
+2026-05-30 05:00:45.580 +05:30 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\priya\source\repos\MyApp\wwwroot\favicon.ico'
+2026-05-30 05:00:45.582 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/favicon.ico - 200 5430 image/x-icon 596.4199ms

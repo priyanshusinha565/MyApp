@@ -30,6 +30,7 @@
         },
         "frameworks": {
           "net8.0": {
+            "framework": "net8.0",
             "targetAlias": "net8.0",
             "projectReferences": {}
           }
@@ -44,11 +45,66 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "10.0.200"
+        "SdkAnalysisLevel": "10.0.300"
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.SqlServer.Server": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "OpenTelemetry": {
+              "target": "Package",
+              "version": "[1.15.2, )"
+            },
+            "OpenTelemetry.Exporter.Jaeger": {
+              "target": "Package",
+              "version": "[1.5.1, )"
+            },
+            "OpenTelemetry.Exporter.OpenTelemetryProtocol": {
+              "target": "Package",
+              "version": "[1.15.2, )"
+            },
+            "OpenTelemetry.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[1.15.2, )"
+            },
+            "OpenTelemetry.Instrumentation.AspNetCore": {
+              "target": "Package",
+              "version": "[1.15.1, )"
+            },
+            "OpenTelemetry.Instrumentation.Http": {
+              "target": "Package",
+              "version": "[1.15.0, )"
+            },
+            "OpenTelemetry.Instrumentation.SqlClient": {
+              "target": "Package",
+              "version": "[1.15.1, )"
+            },
+            "RbTeam.OpenTelemetryLib.WithConfig": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Sejil": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "Serilog.Sinks.File": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "prometheus-net.AspNetCore": {
+              "target": "Package",
+              "version": "[8.2.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -60,6 +116,24 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.27, 8.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.27, 8.0.27]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.27, 8.0.27]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.27, 8.0.27]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -68,7 +142,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

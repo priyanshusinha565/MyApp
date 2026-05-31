@@ -1,0 +1,10 @@
+2026-04-16 22:38:40.676 +05:30 [INF] Now listening on: https://localhost:7238
+2026-04-16 22:38:41.440 +05:30 [INF] Now listening on: http://localhost:5059
+2026-04-16 22:38:43.200 +05:30 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-16 22:38:43.201 +05:30 [INF] Hosting environment: Development
+2026-04-16 22:38:43.201 +05:30 [INF] Content root path: C:\Users\priya\source\repos\MyApp
+2026-04-16 22:38:43.702 +05:30 [INF] Request starting HTTP/2 GET https://localhost:7238/ - null null
+2026-04-16 22:38:44.804 +05:30 [INF] Request Started: GET /
+2026-04-16 22:38:44.834 +05:30 [INF] Request Finished: 404 in 33 ms
+2026-04-16 22:38:44.885 +05:30 [INF] Request finished HTTP/2 GET https://localhost:7238/ - 404 null null 1340.8606ms
+2026-04-16 22:38:44.888 +05:30 [INF] Request reached the end of the middleware pipeline without being handled by application code. Request path: GET https://localhost:7238/, Response status code: 404

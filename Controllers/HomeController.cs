@@ -15,8 +15,21 @@ namespace MyApp.Controllers
 
         public string Index()
         {
+            _logger.LogInformation("Index page called");
+            _logger.LogWarning("This is warning");
+            _logger.LogError("This is error");
             return "HIII";
         }
+        public string IndexERROR( int b)
+        {
+            _logger.LogInformation("Index page called");
+            _logger.LogWarning("This is warning");
+            _logger.LogError("This is error");
+            int a = 0;
+            int c = 100 / a;
+            return "HIIIError";
+                }
+      
 
         public IActionResult Privacy()
         {
