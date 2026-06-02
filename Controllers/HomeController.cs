@@ -27,7 +27,7 @@ namespace MyApp.Controllers
             _logger.LogError("This is error");
             int a = 0;
             int c = 100 / a;
-            return "HIIIError After Rules test";
+            return "HIIIError After Rules test merege remove rules";
                 }
       
 
